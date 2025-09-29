@@ -25,7 +25,8 @@ Oferecer uma solução digital para modernizar a gestão e o acesso ao acervo da
 | Aplicativo / Frontend | React / React Native / Flutter *(especificar)* |
 | Documentação da API | Swagger / Postman |
 
----
+---npm install
+
 
 ## 📦 Instalação e Execução
 
