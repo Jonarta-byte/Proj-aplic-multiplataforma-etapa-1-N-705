@@ -35,3 +35,10 @@ Oferecer uma solução digital para modernizar a gestão e o acesso ao acervo da
 ```bash
 git clone https://github.com/seuusuario/biblioteca-api.git
 cd biblioteca-api
+| Método | Rota                     | Descrição                 |
+| ------ | ------------------------ | ------------------------- |
+| GET    | `/livros`                | Lista todos os livros     |
+| GET    | `/livros/:id`            | Detalhes de um livro      |
+| GET    | `/usuarios/:id/reservas` | Lista reservas do usuário |
+| POST   | `/reservas`              | Cria nova reserva         |
+| POST   | `/auth/login`            | Login do usuário          |
